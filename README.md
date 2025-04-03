@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Usha Sahu</h1>
+<h1 align="center">Hello 👋, I'm Usha Sahu</h1>
 <h3 align="center">Welcome to my GitHub profile! I'm a passionate developer working on web applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahuusha&label=Profile%20views&color=0e75b6&style=flat" alt="sahuusha" /> </p>
