@@ -6,7 +6,6 @@
 </p>
 
 - 💻 Proficient in **Java, HTML, CSS, and JavaScript**  
-- 🌱 I’m currently learning **CP, Firebase**  
 - 💬 Ask me about **React, Next.js, Express, MongoDB**  
 - 📫 How to reach me: **ushasahu2010sahu@gmail.com**
 
