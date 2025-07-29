@@ -2,6 +2,9 @@
 
 <h3 align="center">Welcome to my GitHub profile! I'm a passionate developer working on web applications.</h3>
 
+
+<br/>
+
 <div align="center">
 <table>
   <tr>
@@ -20,15 +23,19 @@
 </table>
 </div>
 
+<br/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/ushasahu2010" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="usha sahu" width="40" height="40" />
+  <a href="https://linkedin.com/in/ushasahu2010" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="usha sahu" width="38" height="38" />
   </a>
-  <a href="https://instagram.com/usha__7638" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="usha__7638" width="40" height="40" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/usha__7638" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="usha__7638" width="38" height="38" />
   </a>
 </p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -79,6 +86,7 @@
 </div>
 
 <br/>
+<hr/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahuusha&show_icons=true&locale=en&layout=compact" alt="sahuusha" /></p>
 
