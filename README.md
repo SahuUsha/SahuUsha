@@ -1,4 +1,4 @@
-<h1 align="center">✨Hello World, I'm Usha Sahu</h1>
+<h1 align="center">✨Hello Coder, I'm Usha Sahu</h1>
 
 <h3 align="center">Welcome to my GitHub profile! I'm a passionate developer working on web applications.</h3>
 
