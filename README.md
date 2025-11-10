@@ -10,8 +10,7 @@
   <tr>
     <td>
 
-- 💻 Proficient in **Java, HTML, CSS, and JavaScript**  
-- 💬 Ask me about **React, Next.js, Express, MongoDB**  
+- 💻 Proficient in **MERN Stack**   
 - 😊 I love to learn new skills and improve my skills  
 - 📫 How to reach me: **ushasahu2010sahu@gmail.com**
 
