@@ -1,6 +1,6 @@
 <h1 align="center">✨ Hey Coder, I'm Usha Sahu</h1>
 
-<h3 align="center"> Computer Science & Engineering (Data Science) Student | Full Stack Developer </h3>
+<h3 align="center">Welcome to my GitHub profile! I'm a passionate developer working on modern web applications.</h3>
 
 <br/>
 
