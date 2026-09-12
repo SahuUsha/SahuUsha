@@ -1,6 +1,9 @@
-<h1 align="center">✨ Hey Coder, I'm Usha Sahu</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=%E2%9C%A8+Hey+Coder%2C+I'm+Usha+Sahu;Full+Stack+Developer+%F0%9F%92%BB;Exploring+Generative+AI+%F0%9F%A4%96;Building+Amazing+Projects+%F0%9F%9A%80" alt="Typing SVG" />
+</h1>
 
-<h3 align="center">Welcome to my GitHub profile! I'm a passionate developer working on modern web applications.</h3>
+<h3 align="center">Welcome to my GitHub profile !  </h3>
+     <!-- I'm a passionate developer working on modern web applications.</h3> -->
 
 <br/>
 
@@ -53,6 +56,7 @@
 </p>
 
 <br/>
+
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
@@ -126,7 +130,7 @@
 <img width="12" />
 <img src="https://cdn.simpleicons.org/openai/000000" height="45" />
 <img width="12" />
-<img src="https://cdn.simpleicons.org/powerbi/F2C811" height="45" />
+<img src="https://skillicons.dev/icons?i=powerbi" height="45" />
 
 <br/><br/>
 
@@ -157,8 +161,6 @@
 <img src="https://cdn.simpleicons.org/postman/FF6C37" height="45" />
 <img width="12" />
 <img src="https://cdn.simpleicons.org/figma/F24E1E" height="45" />
-<img width="12" />
-<img src="https://cdn.simpleicons.org/jira/0052CC" height="45" />
 
 </div>
 
@@ -170,11 +172,21 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sahuusha&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sahuusha&show_icons=true&locale=en" alt="GitHub Stats" />
-</p> -->
+</p> 
 
 <br/>
+
+<h2 align="center">🔥 GitHub Streak</h2>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=sahuusha&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
 
 <p align="center">
   <i>Thanks for visiting my profile! 🚀</i>
